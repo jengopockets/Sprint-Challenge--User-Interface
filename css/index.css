@@ -256,3 +256,34 @@ header nav a {
     border-bottom: 1px dashed black;
     padding-bottom: 20px;
 }
+.middle-content-about{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px dashed black;
+}
+.middle-content-about div{
+    width: 100%;
+}
+.boxes-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.boxes-about div{
+    width: 50%;
+    padding: 20px;
+}
+button{
+    background-color: White;
+    border: 2px solid black;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.bottom-content-about{
+    margin: 20px;
+}

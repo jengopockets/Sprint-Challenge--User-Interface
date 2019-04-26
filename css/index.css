@@ -248,3 +248,11 @@ header nav a {
     align-items: center;
     justify-content: center;
 }
+.top-content-about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+}

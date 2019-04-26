@@ -399,3 +399,27 @@ button {
 .bottom-content-about {
     margin: 20px;
 }
+.middle-content-products {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px dashed black;
+}
+
+.middle-content-products div {
+    width: 100%;
+}
+.boxes-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.boxes-products div {
+    width: 50%;
+    padding: 20px;
+}
+.boxes-products img{
+    width: 370px;
+    height: 236px;
+}
+

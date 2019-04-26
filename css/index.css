@@ -346,9 +346,9 @@ header nav a {
 .box0 {
     width: 12.5%;
     height: 100px;
-    background: ;
+    background: dodgerblue;
     margin: 20px 2.5%;
-    color: dodgerblue;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
